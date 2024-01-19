@@ -1,7 +1,5 @@
 # Hello I am Ahmad
 
-![Ahmad](./img/ahmad_profile.jpg)
-
 ## About Me 🌐
 
 Hi, Ahmad is a motivated and detail-oriented junior UI/UX designer and Front-End
