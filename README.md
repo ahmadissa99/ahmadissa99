@@ -16,6 +16,12 @@ through travel (✈️), doing sports,
 - PhotoShop, Illustrator
 - Figma
 
+## Languages
+
+- English
+- Dutch
+- Arabic
+
 **I am learning now :**
 
 - JavaScript ☕️
