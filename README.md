@@ -2,8 +2,11 @@
 
 ## About Me 🌐
 
-Hi, Ahmad is a motivated and detail-oriented junior UI/UX designer and Front-End
-developer.
+A junior front-end developer and budding UI/UX designer. Combining
+coding finesse with a keen eye for user experience, I embark on a
+journey to craft seamless and visually engaging websites. Explore my
+portfolio to witness the intersection of code and design, where every
+project reflects my commitment to creating delightful online experiences.
 
 ## Hobbies ✈️
 
